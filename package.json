@@ -1,0 +1,29 @@
+{
+  "name": "proton-pay-demo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@proton/js": "^25.0.32",
+    "@proton/signing-request": "^4.1.18",
+    "dotenv": "^10.0.0",
+    "eosio-signing-request": "^2.2.2",
+    "next": "^11.1.2",
+    "npm": "^7.21.1",
+    "prettier": "^2.3.1",
+    "qr-code-styling": "^1.6.0-rc.1",
+    "react": "17.0.1",
+    "react-device-detect": "^2.2.2",
+    "react-dom": "17.0.1",
+    "react-qr-code": "^2.0.2",
+    "react-zlib-js": "^1.0.5",
+    "styled-components": "^5.3.0",
+    "url-loader": "^4.1.1",
+    "util": "^0.12.4",
+    "zlib": "^1.0.5"
+  }
+}
